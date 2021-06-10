@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+.row{
+    display: flex;
+}
+.box{
+    height:1em;
+    width: 1em;
+}
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+}
